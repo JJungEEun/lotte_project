@@ -27,4 +27,4 @@ python
 
 ### 분석 프로세스
 ---
-![initial](img/아이모드_작동_방식.png)  
+![initial](img/분석프로세스.PNG)  
